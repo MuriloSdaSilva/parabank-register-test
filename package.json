@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^13.13.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
